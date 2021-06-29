@@ -5,13 +5,6 @@ React
 Firebase
 TypeScript
 
-🚀 Como executar
-Clone o projeto e acesse a pasta do mesmo.
-
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
-Para iniciá-lo, siga os passos abaixo:
-
 # Instalar as dependências
 $ yarn
 
